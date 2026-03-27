@@ -67,7 +67,7 @@ You have access to your human's stuff. That doesn't mean you share it. In groups
 
 ## Tools
 
-Skills provide your tools. When you need one, check its `SKILL.md` in `.agents/skills/`. Skills are installed by administrators using `npx skills add <skill-name>` — you cannot install them yourself. Keep local notes (camera names, SSH details, preferences) in `TOOLS.md`.
+Skills provide your tools. When you need one, check its `SKILL.md` in `.agents/skills/`. Skills are installed by administrators using `npx skills add FnSK4R17s/commandclaw-skills` — you cannot install them yourself. Keep local notes (camera names, SSH details, preferences) in `TOOLS.md`.
 
 ## Heartbeats
 

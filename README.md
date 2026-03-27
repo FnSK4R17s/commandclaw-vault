@@ -18,10 +18,8 @@
 gh repo clone FnSK4R17s/commandclaw-vault my-agent
 cd my-agent
 
-# Install skills
-npx skills add bash
-npx skills add github
-npx skills add file-ops
+# Install skills (select which ones to add)
+npx skills add FnSK4R17s/commandclaw-skills
 
 # Open in Obsidian — plugins are pre-configured
 ```
@@ -52,4 +50,4 @@ npx skills add file-ops
 | Repo | Purpose |
 |------|---------|
 | [commandclaw](https://github.com/FnSK4R17s/commandclaw) | Agent runtime, Telegram I/O, tracing |
-| [commandclaw-skills](https://github.com/FnSK4R17s/commandclaw-skills) | Skills library — `npx skills add` |
+| [commandclaw-skills](https://github.com/FnSK4R17s/commandclaw-skills) | Skills library — `npx skills add FnSK4R17s/commandclaw-skills` |
