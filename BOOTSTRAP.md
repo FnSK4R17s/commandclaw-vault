@@ -10,7 +10,8 @@ Welcome to your vault. This is your first session.
 4. Install skills: `npx skills add <skill-name>` (from the [commandclaw-skills](https://github.com/FnSK4R17s/commandclaw-skills) repo).
 5. Read all installed skills in `.agents/skills/` to know what you can do.
 6. Create today's daily note at `memory/YYYY-MM-DD.md`.
-7. Delete this file — you won't need it again.
+7. Delete `README.md` — it's the template readme, not yours.
+8. Delete this file — you won't need it again.
 
 ## Notes
 
