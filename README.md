@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="CommandClaw Vault" width="240">
+  <img src="logo.png" alt="CommandClaw Vault" height="88">
 </p>
 
 <h1 align="center">CommandClaw Vault</h1>
