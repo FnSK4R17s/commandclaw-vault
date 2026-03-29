@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Obsidian workspace (user-specific, not portable)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
